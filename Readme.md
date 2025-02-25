@@ -4,6 +4,7 @@
 <a href="https://github.com/adysec/ARL/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/adysec/ARL?color=red&style=flat-square"></a>
 
 ARL资产侦察灯塔系统备份项目，**已跑通**
+##是否有xss的平台？
 
 ### 简介
 旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。
